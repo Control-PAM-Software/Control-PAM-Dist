@@ -1,10 +1,10 @@
 {
-  "version": "5.4.2",
-  "release_date": "05/03/2025",
-  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.4.2/Control_5.4.2.exe",
+  "version": "5.4.3",
+  "release_date": "18/03/2025",
+  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.4.3/Control_5.4.3.7z",
   "mandatory": false,
-  "changelog": ["Se agrega generador de Qr, exportador a Excel e impresión de tablas.",
-		"Se modifica la ventana de Valijas AB, ya no agrupa los ítems."
+  "changelog": ["Se agregó botón para insertar LP a los códigos de Accesorios AB.",
+		"Se modificó la exportación a Excel, cambiando los encabezados de mayúsculas a minúsculas."
   ],
   "checksum": ""
 }
