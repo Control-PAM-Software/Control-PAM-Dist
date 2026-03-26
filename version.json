@@ -1,10 +1,8 @@
 {
-  "version": "5.4.3",
-  "release_date": "18/03/2025",
-  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.4.3/Control_5.4.3.7z",
+  "version": "5.4.4",
+  "release_date": "25/03/2025",
+  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.4.4/Control_5.4.4.exe",
   "mandatory": false,
-  "changelog": ["Se agregó botón para insertar LP a los códigos de Accesorios AB.",
-		"Se modificó la exportación a Excel, cambiando los encabezados de mayúsculas a minúsculas."
-  ],
+  "changelog": [],
   "checksum": ""
 }
