@@ -3,6 +3,6 @@
   "release_date": "25/03/2025",
   "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.4.4/Control_5.4.4.exe",
   "mandatory": false,
-  "changelog": [],
+  "changelog": ["Se agrega Update automático via GitHub Releases."],
   "checksum": ""
 }
