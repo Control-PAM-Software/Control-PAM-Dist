@@ -1,8 +1,8 @@
 {
-  "version": "5.4.5",
-  "release_date": "17/06/2025",
-  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.4.4/Control_5.4.5.exe",
+  "version": "5.5.1",
+  "release_date": "24/08/2026",
+  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.5.1/Control_5.5.1.exe",
   "mandatory": false,
-  "changelog": ["Se agrega Update automático via GitHub Releases."],
+  "changelog": ["Se agrega exportación de Excel para armado de etiquetas (Fase Inicial)."],
   "checksum": ""
 }
