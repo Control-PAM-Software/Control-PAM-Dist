@@ -1,8 +1,8 @@
 {
-  "version": "5.5.2",
-  "release_date": "30/08/2026",
-  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.5.2/Control_5.5.2.exe",
+  "version": "5.5.3",
+  "release_date": "31/08/2026",
+  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.5.3/Control_5.5.3.exe",
   "mandatory": false,
-  "changelog": ["Fix de bug al leer productos de Atos, error de conversión de fecha.", "Fix de bug en ventana 'Acerca De' no mostraba correctamente el ChangeLog del repositorio."],
+  "changelog": ["Fix al leer archivos mediante Drag & Drop, con formato interno HTML."],
   "checksum": ""
 }
