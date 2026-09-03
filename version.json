@@ -1,6 +1,6 @@
 {
   "version": "5.5.4",
-  "release_date": "09/09/2026",
+  "release_date": "03/09/2026",
   "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.5.4/Control_5.5.4.exe",
   "mandatory": false,
   "changelog": ["Fix al leer productos de Atos con letra en número de serie.", "Fix al leer productos de Atos con el signo '$'."],
