@@ -1,8 +1,8 @@
 {
-  "version": "5.5.4",
-  "release_date": "03/09/2026",
-  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/5.5.4/Control_5.5.4.exe",
+  "version": "6.0.0",
+  "release_date": "18/10/2026",
+  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/6.0.0/Control_6.0.0.exe",
   "mandatory": false,
-  "changelog": ["Fix al leer productos de Atos con letra en número de serie.", "Fix al leer productos de Atos con el signo '$'."],
+  "changelog": ["Se agrega generación de reportes para Bernafon, en el menú Reportes > Bernafon."],
   "checksum": ""
 }
