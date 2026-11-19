@@ -1,8 +1,8 @@
 {
-  "version": "6.0.0",
-  "release_date": "18/10/2026",
-  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/6.0.0/Control_6.0.0.exe",
+  "version": "6.0.2",
+  "release_date": "18/11/2026",
+  "url_download": "https://github.com/Control-PAM-Software/Control-PAM-Dist/releases/download/6.0.2/Control_6.0.2.exe",
   "mandatory": false,
-  "changelog": ["Se agrega generación de reportes para Bernafon, en el menú Reportes > Bernafon."],
+  "changelog": ["Se agrega configuración AB para definir si se agrupa o no la importación del Excel."],
   "checksum": ""
 }
